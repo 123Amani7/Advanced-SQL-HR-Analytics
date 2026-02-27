@@ -11,7 +11,7 @@ A comprehensive database system developed using Oracle SQL, designed to automate
 
 ### **Visual Reports & Execution**
 #### **Sales & Revenue Analysis**
-<img src="image_1873f8.png" width="800" alt="Total Revenue Report">
+
 
 #### **HR Data Management (106 Records Processed)**
 <img src="Screenshot 2026-02-27 125750.png" width="800" alt="HR Analytics Results">
