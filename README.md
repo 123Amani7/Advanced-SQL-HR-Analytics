@@ -1,3 +1,13 @@
-# Advanced-SQL-HR-Analytics
+# Advanced SQL Systems: Database Programming & HR Analytics
 <img src="Screenshot 2026-02-27 125750.png" width="900" alt="HR Analytics Results">
-Developed and implemented a sophisticated suite of SQL scripts designed for comprehensive database management and data analysis. This project showcases the ability to build intelligent, automated data systems that bridge the gap between raw data and actionable insights
+### **Project Overview**
+A comprehensive database system developed using Oracle SQL, designed to automate HR management tasks and provide high-level business analytics. This project bridges the gap between raw data storage and actionable business insights.
+### **Key Technical Features**
+* **Database Automation:** Implementation of **Stored Procedures** and **Triggers** to automate record updates and track historical changes.
+* **Advanced Analytics:** Complex multi-table **Joins** and **Aggregations** to generate financial reports such as "Total Revenue per Category".
+* **System Optimization:** Designed **Database Views** and **User Defined Functions (UDFs)** to simplify complex calculations and data retrieval.
+* **Data Integrity:** Applied **Check Options** and rigorous filtering logic to ensure system reliability and data quality.
+### **Technologies Used**
+* **Database:** Oracle Database
+* **Language:** PL/SQL
+* **Tools:** Oracle SQL Developer
